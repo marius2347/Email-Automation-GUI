@@ -7,6 +7,7 @@
     <li> Google Password FROM: Google Account -> Security -> Two-Step Verification -> Set Application Password </li>
     <li> Submit Button (Send Email to other user) </li>
     <li> Header & GUI With Labels Centered</li>
+    <li> Window Screen Centered When Opened & Width, Height Fixed </li>
 </ul>
 
 
