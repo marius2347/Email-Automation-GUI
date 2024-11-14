@@ -1,4 +1,4 @@
-<h1> Email Automation GUI - Python Project</h1>
+<h1>Email Automation GUI using PyQt in Python</h1>
 <br>
 <h2>Features</h2>
 <ul>
